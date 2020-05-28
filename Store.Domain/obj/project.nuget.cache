@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "PY6ZH+chOXLWGQuP8zk7PKoop69G2ykU/LKcQJPRPtvVPpdicHhjL5QZISn+3O3GJXfIl77fXN3gAodsZ2m+Og==",
+  "success": true,
+  "projectFilePath": "C:\\Dev\\Balta.io\\unit-tests\\Store.Domain\\Store.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
