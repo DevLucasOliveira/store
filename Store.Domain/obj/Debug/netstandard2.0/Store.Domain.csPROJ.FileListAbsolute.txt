@@ -1,0 +1,9 @@
+C:\Dev\Balta.io\unit-tests\Store.Domain\bin\Debug\netstandard2.0\Store.Domain.deps.json
+C:\Dev\Balta.io\unit-tests\Store.Domain\bin\Debug\netstandard2.0\Store.Domain.dll
+C:\Dev\Balta.io\unit-tests\Store.Domain\bin\Debug\netstandard2.0\Store.Domain.pdb
+C:\Dev\Balta.io\unit-tests\Store.Domain\obj\Debug\netstandard2.0\Store.Domain.csPROJAssemblyReference.cache
+C:\Dev\Balta.io\unit-tests\Store.Domain\obj\Debug\netstandard2.0\Store.Domain.csPROJ.CoreCompileInputs.cache
+C:\Dev\Balta.io\unit-tests\Store.Domain\obj\Debug\netstandard2.0\Store.Domain.AssemblyInfoInputs.cache
+C:\Dev\Balta.io\unit-tests\Store.Domain\obj\Debug\netstandard2.0\Store.Domain.AssemblyInfo.cs
+C:\Dev\Balta.io\unit-tests\Store.Domain\obj\Debug\netstandard2.0\Store.Domain.dll
+C:\Dev\Balta.io\unit-tests\Store.Domain\obj\Debug\netstandard2.0\Store.Domain.pdb
