@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Dev\\Balta.io\\unit-tests\\Store.Domain\\Store.Domain.csPROJ": {}
+    "C:\\Dev\\Balta.io\\unit-tests\\store.domain\\Store.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Dev\\Balta.io\\unit-tests\\Store.Domain\\Store.Domain.csPROJ": {
+    "C:\\Dev\\Balta.io\\unit-tests\\store.domain\\Store.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Dev\\Balta.io\\unit-tests\\Store.Domain\\Store.Domain.csPROJ",
+        "projectUniqueName": "C:\\Dev\\Balta.io\\unit-tests\\store.domain\\Store.Domain.csproj",
         "projectName": "Store.Domain",
-        "projectPath": "C:\\Dev\\Balta.io\\unit-tests\\Store.Domain\\Store.Domain.csPROJ",
+        "projectPath": "C:\\Dev\\Balta.io\\unit-tests\\store.domain\\Store.Domain.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Dev\\Balta.io\\unit-tests\\Store.Domain\\obj\\",
+        "outputPath": "C:\\Dev\\Balta.io\\unit-tests\\store.domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
