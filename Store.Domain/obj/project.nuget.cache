@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PGU9b57UKotBhaomJrTT+VZQkzLW4jOGEWnMGW7XxHh0vH/ZKm97L1Ai6BWOx80d0RwtKRHSuWlE8Najdc6fkg==",
+  "dgSpecHash": "ern16TCWVjfuqzN0onoZxXDNftjrL/keMhJjlZPwE2jWfBWQ7Ky8SJvSmBpKwyG7X0gZCi+dQBQkUDk0gIh41w==",
   "success": true,
-  "projectFilePath": "C:\\Dev\\Balta.io\\unit-tests\\store.domain\\Store.Domain.csproj",
+  "projectFilePath": "C:\\Dev\\Balta.io\\unit-tests\\Store.Domain\\Store.Domain.csPROJ",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\flunt\\1.0.5\\flunt.1.0.5.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
